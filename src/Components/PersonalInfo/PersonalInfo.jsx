@@ -18,7 +18,7 @@ function PersonalInfo() {
         </div>
         <div>
           <label htmlFor="address">Address </label>
-          <input type="text" id="address" placeholder="Enter Number" />
+          <input type="text" id="address" placeholder="Enter Address" />
         </div>
       </form>
     </>

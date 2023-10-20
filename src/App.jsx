@@ -1,9 +1,9 @@
 import "./App.css";
-import PersonalInfo from "./Components/PersonalInfo/PersonalInfo";
+import InfoSection from "./Components/InfoSection/InfoSection";
 function App() {
   return (
     <>
-      <PersonalInfo />
+      <InfoSection />
     </>
   );
 }
